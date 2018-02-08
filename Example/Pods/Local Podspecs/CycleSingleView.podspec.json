@@ -1,0 +1,27 @@
+{
+  "name": "CycleSingleView",
+  "version": "0.1.0",
+  "summary": "循环上翻的View",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://git.innotechx.com/scm/md/cyclesingleview.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tree": "tanlusheng@innotechx.com"
+  },
+  "source": {
+    "git": "http://tanlusheng@git.innotechx.com/scm/md/cyclesingleview.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CycleSingleView/Classes/**/*.swift",
+  "resource_bundles": {
+    "CycleSingleView": [
+      "CycleSingleView/Assets/*.xib"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CycleSingleView (0.1.0)
+
+DEPENDENCIES:
+  - CycleSingleView (from `../`)
+
+EXTERNAL SOURCES:
+  CycleSingleView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CycleSingleView: 24dc0319fc37174e10d426bdf482d1b1f13a6ec4
+
+PODFILE CHECKSUM: 0c71f9f789bd3680c91744f26deffdb5330092bb
+
+COCOAPODS: 1.4.0

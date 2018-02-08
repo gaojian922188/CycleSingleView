@@ -1,0 +1,6 @@
+framework module CycleSingleView {
+  umbrella header "CycleSingleView-umbrella.h"
+
+  export *
+  module * { export * }
+}
